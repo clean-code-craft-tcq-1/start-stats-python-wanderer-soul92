@@ -1,5 +1,4 @@
 
-def calculateStats(numbers):
   
   #import math
 
