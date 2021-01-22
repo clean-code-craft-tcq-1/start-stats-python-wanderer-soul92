@@ -3,7 +3,7 @@
   #import math
 
 def calculateStats(number):
-  global n
+    global n
     n = len(number)
     if n < 1:
         calculateStats.a = None
